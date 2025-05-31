@@ -1,0 +1,7 @@
+C:\Users\allan\source\repos\ListaDeExercicio2Ex5\ListaDeExercicio2\bin\Debug\ListaDeExercicio2.exe.config
+C:\Users\allan\source\repos\ListaDeExercicio2Ex5\ListaDeExercicio2\bin\Debug\ListaDeExercicio2.exe
+C:\Users\allan\source\repos\ListaDeExercicio2Ex5\ListaDeExercicio2\bin\Debug\ListaDeExercicio2.pdb
+C:\Users\allan\source\repos\ListaDeExercicio2Ex5\ListaDeExercicio2\obj\Debug\ListaDeExercicio2.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\ListaDeExercicio2Ex5\ListaDeExercicio2\obj\Debug\ListaDeExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\ListaDeExercicio2Ex5\ListaDeExercicio2\obj\Debug\ListaDeExercicio2.exe
+C:\Users\allan\source\repos\ListaDeExercicio2Ex5\ListaDeExercicio2\obj\Debug\ListaDeExercicio2.pdb
